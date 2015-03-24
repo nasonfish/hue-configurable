@@ -1,0 +1,13 @@
+{
+  "Bathroom Light": {
+    "8:00": {"color": "red", "blink": "1"},
+    "8:10": {"color": "purple", "blink": "0"},
+    "8:30": {"color": "magenta", "blink": "1"}
+  },
+  "Living Room Light": {
+    "8:24": {"color": "blue", "blink": "0"},
+    "8:10": {"color": "green", "blink": "1"},
+    "8:30": {"color": "yellow", "blink": "0"}
+  }
+}
+
